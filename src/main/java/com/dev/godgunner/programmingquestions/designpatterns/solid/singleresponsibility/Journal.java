@@ -1,4 +1,4 @@
-package com.dev.godgunner.programmingquestions.desiignpatterns.singleresponsibility;
+package com.dev.godgunner.programmingquestions.designpatterns.solid.singleresponsibility;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.dev.godgunner.programmingquestions.desiignpatterns.openclose;
+package com.dev.godgunner.programmingquestions.designpatterns.solid.openclose;
 
 import java.util.List;
 import java.util.stream.Stream;
